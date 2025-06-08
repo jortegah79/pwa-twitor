@@ -1,14 +1,11 @@
 {
-    "dir": "ltr",
-    "lang": "es",
     "short_name": "Twittor",
-    "name": "Twittor para heroes",
-    "display": "standalone",
+    "name": "Twittor para héroes",
     "start_url": "index.html",
-    "theme_color": "#3498db",
-    "orientation": "portrait",
     "background_color": "#3498db",
-    "prefer_related_applications": false,
+    "theme_color": "#3498db",
+    "display": "standalone",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
@@ -50,5 +47,7 @@
             "type": "image/png",
             "sizes": "512x512"
         }
-    ]
+      ]
+
+
 }
